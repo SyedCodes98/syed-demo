@@ -1,3 +1,4 @@
 # syed-demo
-this is ma first Git repositiory
-author-syed
+This is ma first Git repositiory
+<br>
+Author-syed
