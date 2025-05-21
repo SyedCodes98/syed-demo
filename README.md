@@ -1,4 +1,4 @@
 # syed-demo
-This is my first Git repositiory
+This is my first Git repository
 <br>
 Author-syed ehtisham
